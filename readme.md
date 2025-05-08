@@ -24,7 +24,7 @@
 
 
 
-The *official* repository for  [STOP: Integrated Spatial-Temporal Dynamic Prompting for Video Understanding](https://arxiv.org/pdf/2503.15973).
+The *official* repository for  [Token Coordinated Prompt Attention is Needed for Visual Prompting](https://arxiv.org/pdf/2505.02406).
 
 
 ![Framework](figs/Framework.png)
