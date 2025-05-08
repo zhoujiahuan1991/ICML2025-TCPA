@@ -10,7 +10,7 @@
 
   <sup>1</sup>Wangxuan Institute of Computer Technology, Peking University&emsp;
   <sup>2</sup>School of Artificial Intelligence and Automation, Huazhong University of Science and Technology&emsp;
-  <sup>2</sup>Amazon.com, Inc&emsp;
+  <sup>3</sup>Amazon.com, Inc&emsp;
 
 
 </div>
